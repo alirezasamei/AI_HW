@@ -1,0 +1,37 @@
+[
+    {
+        "title": "first",
+        "date": "2025/11/03 23:45:59",
+        "content": "this is my first note content with key ali"
+    },
+    {
+        "title": "second",
+        "date": "2025/11/03 23:47:59",
+        "content": "this is my second note content with key mammad"
+    },
+    {
+        "title": "third",
+        "date": "2025/11/03 23:48:46",
+        "content": "this is my third note content with key ali"
+    },
+    {
+        "title": "4rd",
+        "date": "2025/11/03 23:48:46",
+        "content": "this is my 4rd note content with key mammad"
+    },
+    {
+        "title": "5th",
+        "date": "2025/11/03 23:48:46",
+        "content": "this is my 5th note content with key ali"
+    },
+    {
+        "title": "6th",
+        "date": "2025/11/03 23:48:46",
+        "content": "this is my 6th note content with key hasan"
+    },
+    {
+        "title": "7th hasan",
+        "date": "2025/11/03 23:48:46",
+        "content": "this is my 7th note content with key hosein"
+    }
+]
